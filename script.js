@@ -5,3 +5,5 @@ let student = {
     return Object.keys(this);
   },
 };
+
+console.log(student.getKeys())
